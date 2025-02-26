@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Machine Learning!**
 - Also working on building cool softwares!
 -  Im also trying to Learn Elixir for backend!
-- 🏃 Work out everyday
+- 🏃 Working out everyday (The Mind and Body)
 - 📫 How to reach me **eshan.avanti@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
