@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avanteesh</h1>
 <h3 align="center">I love everything to do with Programming,Math, and Astronomy</h3>
 
-<h1>
+<h2>
   <blockquote>
     <q>An Algorithm a Day keeps the Bugs way!</q>
   </blockquote>
-</h1>
+</h2>
 
 - 🌱 I’m currently learning **Machine Learning!**
 - Also working on building cool softwares!
