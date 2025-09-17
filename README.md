@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning!**
 - Also working on building cool softwares!
--  Im also trying to Learn Elixir for backend!
+- Developing Compilers and interpreters
 - 🏃 Working out everyday (The Mind and Body)
 - 📫 How to reach me **eshan.avanti@gmail.com**
 - Stargazing is a Personal Hobby!😁🔭
