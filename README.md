@@ -8,7 +8,6 @@
 </h2>
 
 - 🌱 I’m currently learning **Machine Learning!**
-- Also working on building cool softwares!
 - Developing Compilers and interpreters
 - 🏃 Working out everyday (The Mind and Body)
 - 📫 How to reach me **eshan.avanti@gmail.com**
