@@ -12,6 +12,7 @@ about_me() {
   echo "I am a computer science undergraduate focused on backend and systems engineering."
   echo "I am a systems engineer who approaches problems from first principles."
   echo "How to reach me "eshan.avanti@gmail.com"
+}
 ```
 
 <h3 align="left">My Favourite Programming Languages and Tools:</h3>
