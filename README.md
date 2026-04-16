@@ -10,9 +10,6 @@
 
 ### 🧠 About Me
 
-```assembly
-### 🧠 About Me
-
 ```asm
 section .data
     role        db "Computer Science Undergraduate", 0
@@ -43,7 +40,6 @@ _start:
     call exit
 ```
 
-```
 
 ---
 
