@@ -10,14 +10,39 @@
 
 ### 🧠 About Me
 
-```bash
-whoami() {
-  echo "Computer science undergraduate focused on backend and systems engineering"
-  echo "Strong interest in low-level systems, compilers, and distributed systems"
-  echo "I approach problems from first principles"
-  echo "I enjoy programming, mathematics, and astrophysics"
-  echo "Contact: eshan.avanti@gmail.com"
-}
+```assembly
+### 🧠 About Me
+
+```asm
+section .data
+    role        db "Computer Science Undergraduate", 0
+    focus       db "Backend & Systems Engineering", 0
+    mindset     db "First-principles problem solving", 0
+    interests   db "Programming | Mathematics | Astrophysics", 0
+    contact     db "eshan.avanti@gmail.com", 0
+
+section .text
+    global _start
+
+_start:
+    mov rdi, role
+    call print
+
+    mov rdi, focus
+    call print
+
+    mov rdi, mindset
+    call print
+
+    mov rdi, interests
+    call print
+
+    mov rdi, contact
+    call print
+
+    call exit
+```
+
 ```
 
 ---
