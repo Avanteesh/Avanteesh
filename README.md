@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Avanteesh and Im a Computer Scientist, precisely...</h1>
+<h1 align="center">Hi 👋, I'm Avanteesh</h1>
 
-<h2>
-  <blockquote>
-    <q>An Algorithm a Day keeps the Bugs way!</q>
-  </blockquote>
-</h2>
+<h3 align="center">Computer Science Undergraduate • Backend & Systems Engineering</h3>
+
+<p align="center">
+  <i>"An algorithm a day keeps the bugs away."</i>
+</p>
+
+---
+
+### 🧠 About Me
 
 ```bash
-about_me() {
-  echo "I am a computer science undergraduate focused on backend and systems engineering."
-  echo "I am a systems engineer who approaches problems from first principles."
-  echo "I love everything to do with Programming,Math, and Astronomy"
-  echo "How to reach me "eshan.avanti@gmail.com"
+whoami() {
+  echo "Computer science undergraduate focused on backend and systems engineering"
+  echo "Strong interest in low-level systems, compilers, and distributed systems"
+  echo "I approach problems from first principles"
+  echo "I enjoy programming, mathematics, and astrophysics"
+  echo "Contact: eshan.avanti@gmail.com"
 }
 ```
 
-<a href="https://avanteesh.github.io/portfolio/">My Website</a>
+---
 
-<h3 align="left">My Favourite Programming Languages and Tools:</h3>
-<p align="right">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite3" width="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
+### 🌐 Portfolio
+
+👉 https://avanteesh.github.io/portfolio/
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
 </p>
+
+---
+
+### 🚀 What I'm Currently Exploring
+
+* Building systems from scratch (parsers, databases, low-level tools)
+* Distributed systems & message queues
+* Machine learning from first principles
+
+---
+
 
 
